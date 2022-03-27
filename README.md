@@ -1,4 +1,5 @@
-[Tecnologia](#🚀-tecnologias) | [Projetos](#💻-projeto) | [Layout](#🔖-layout)
+ [🚀 Tecnologia](#🚀-tecnologias) | [💻 Projetos](#💻-projeto) | [🔖 Layout](#🔖-layout)
+</br>
 
 ![Settings_Step_2](/assets/fotos/Capa.png)
 
